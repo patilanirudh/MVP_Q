@@ -9,13 +9,13 @@
 2026-02-10 14:18:21,192 - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
 2026-02-10 14:18:21,192 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
 2026-02-10 14:18:24,288 - INFO - Telegram bot started
-2026-02-10 14:18:26,661 - INFO - HTTP Request: POST https://api.telegram.org/bot8510647889:AAGJ9TL1rmK_c3_HMe5gPISUhuWAykecCWY/getMe "HTTP/1.1 200 OK"
-2026-02-10 14:18:27,036 - INFO - HTTP Request: POST https://api.telegram.org/bot8510647889:AAGJ9TL1rmK_c3_HMe5gPISUhuWAykecCWY/deleteWebhook "HTTP/1.1 200 OK"
+2026-02-10 14:18:26,661 - INFO - HTTP Request: POST https://api.telegram.org/ecCWY/getMe "HTTP/1.1 200 OK"
+2026-02-10 14:18:27,036 - INFO - HTTP Request: POST https://api.telegram.org/CWY/deleteWebhook "HTTP/1.1 200 OK"
 2026-02-10 14:18:27,037 - INFO - Application started
-2026-02-10 14:18:27,742 - INFO - HTTP Request: POST https://api.telegram.org/bot8510647889:AAGJ9TL1rmK_c3_HMe5gPISUhuWAykecCWY/getUpdates "HTTP/1.1 200 OK"
-2026-02-10 14:18:28,291 - INFO - HTTP Request: POST https://api.telegram.org/bot8510647889:AAGJ9TL1rmK_c3_HMe5gPISUhuWAykecCWY/sendMessage "HTTP/1.1 200 OK"
-2026-02-10 14:18:37,977 - INFO - HTTP Request: POST https://api.telegram.org/bot8510647889:AAGJ9TL1rmK_c3_HMe5gPISUhuWAykecCWY/getUpdates "HTTP/1.1 200 OK"
-2026-02-10 14:18:48,219 - INFO - HTTP Request: POST https://api.telegram.org/bot8510647889:AAGJ9TL1rmK_c3_HMe5gPISUhuWAykecCWY/getUpdates "HTTP/1.1 200 OK"
+2026-02-10 14:18:27,742 - INFO - HTTP Request: POST https://api.telegram.org/bWY/getUpdates "HTTP/1.1 200 OK"
+2026-02-10 14:18:28,291 - INFO - HTTP Request: POST https://api.telegram.org/bot851ndMessage "HTTP/1.1 200 OK"
+2026-02-10 14:18:37,977 - INFO - HTTP Request: POST https://api.telegram.org/bot8510ISUhuWAykecCWY/getUpdates "HTTP/1.1 200 OK"
+2026-02-10 14:18:48,219 - INFO - HTTP Request: POST https://api.telegram.org/bot8WY/getUpdates "HTTP/1.1 200 OK"
 2026-02-10 14:18:54,881 - INFO - Answering question: what is the payment rule?
 2026-02-10 14:18:54,881 - INFO - Querying RAG for: what is the payment rule?
 2026-02-10 14:18:54,921 - WARNING - Number of requested results 3 is greater than number of elements in index 2, updating n_results = 2
